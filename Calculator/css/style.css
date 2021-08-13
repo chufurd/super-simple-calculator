@@ -1,0 +1,56 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+html{
+  background-color: grey;
+  color: black;
+  width: 1000px;
+
+}
+input{
+  width: 25%;
+  height: 100px;
+  margin-top: 25px;
+  font-size: 75px;
+  float: left;
+}
+#talkThatTalk{
+  font-size: 100px;
+  margin-top: 200px;
+  height: 100px;
+  text-align: center;
+
+
+}
+select{
+  width: 25%;
+  font-size: 75px;
+  float: left;
+  margin-top: 25px;
+  height: 100px;
+}
+button{
+  width: 25%;
+  font-size: 75px;
+  float: left;
+  margin-top: 25px;
+  height: 100px;
+}
+h1{
+  text-align: center;
+  font-size: 75px;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
